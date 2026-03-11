@@ -1,0 +1,6 @@
+BOT_TOKEN=""
+
+# Fiz um sistema de 24 horas, o rank do /baltop for salvo separado.
+# se trata se uma webhook para notificar em um canal.
+# Exemplo: https://discord.com/api/webhooks/123/abc
+RANK_SAVED="" 
